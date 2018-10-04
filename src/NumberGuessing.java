@@ -19,7 +19,7 @@ public class NumberGuessing {
         correct = false;
 
 
-        System.out.println(pickednumber);
+        //System.out.println(pickednumber);
         System.out.println("start guessing a number, you have 10 tries or you die.");
         //guessednumber = keyboard.nextInt();
 
